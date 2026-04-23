@@ -5,7 +5,7 @@ import (
 	"sync"
 
 	"golang.org/x/sys/windows"
-	"golang.org/x/sys/windows/registry"
+	"golang.org/x/sys/windows/registry" //test
 )
 
 // OSVersion is a wrapper for Windows version information
